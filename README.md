@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/i-S4iVKr)
 # eas501-newtonRaphson
 
 Write a python function with a call of `x, iter = newtonRaphson(g, x0, eps, delta, itermax)` which used the Newton-Raphson method which returns the root of a function `g`. The inputs are:
